@@ -18,51 +18,52 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     int month_num = 1;
-    months month = months::январь;
 
     while (month_num > 0)
     {
         std::cout << "Введите номер месяца: ";
         std::cin >> month_num;
 
-        if (month_num >= 0 && month_num <= 12) {
+        months month = static_cast<months>(month_num);
 
-            switch (month_num)
+        if (month >= 0 && month <= 12) {
+
+            switch (month)
             {
-            case 1:
+            case months::январь:
                 std::cout << "Январь" << std::endl;
                 break;
-            case 2:
+            case months::февраль:
                 std::cout << "Февраль" << std::endl;
                 break;
-            case 3:
+            case months::март:
                 std::cout << "Март" << std::endl;
                 break;
-            case 4:
+            case months::апрель:
                 std::cout << "Апрель" << std::endl;
                 break;
-            case 5:
+            case months::май:
                 std::cout << "Май" << std::endl;
                 break;
-            case 6:
+            case months::июнь:
                 std::cout << "Июнь" << std::endl;
                 break;
-            case 7:
+            case months::июль:
                 std::cout << "Июль" << std::endl;
                 break;
-            case 8:
+            case months::август:
                 std::cout << "Август" << std::endl;
                 break;
-            case 9:
+            case months::сентябрь:
                 std::cout << "Сентябрь" << std::endl;
                 break;
-            case 10:
+            case months::октябрь:
                 std::cout << "Октябрь" << std::endl;
                 break;
-            case 11:
+            case months::ноябрь:
                 std::cout << "Ноябрь" << std::endl;
                 break;
-            case 12:
+            case months::декабрь:
                 std::cout << "Декабрь" << std::endl;
                 break;
             }
