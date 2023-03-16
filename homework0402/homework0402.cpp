@@ -102,13 +102,13 @@ int main()
             f1 << adr[i].get_output_address() << std::endl;
         }
         delete[] adr;
+        f.close();
         f1.close();
     }
     else
     {
         std::cout << "Не удалось прочитать файл in.txt\n";
     }
-    f.close();
 }
 
 
