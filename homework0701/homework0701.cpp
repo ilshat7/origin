@@ -1,5 +1,7 @@
 ﻿#include <iostream>
-#define MODE 1
+#define MODE 2
+
+#ifdef MODE
 
 int add(int num1, int num2) {
     return num1 + num2;
@@ -11,6 +13,7 @@ int main()
 
 #if MODE == 0
     std::cout << "Работаю в режиме тренировки\n";
+
 #elif MODE == 1
     std::cout << "Работаю в боевом режиме\n";
 
@@ -23,10 +26,12 @@ int main()
     std::cout << "Результат сложения: " << add(num1, num2);
 
 #else
-#error Неизвестный режим. Завершение работы
+    std::cout << "Неизвестный режим. Завершение работы";
 #endif // MODE == 0
 
-
-
-
 }
+
+
+#else
+#error Необходимо определить MODE
+#endif // MODE
