@@ -197,32 +197,43 @@ int main()
 	setlocale(0, "ru");
 
 	Figure f;
-	f.print_info();
+	Figure* ptr = &f;
+	ptr->print_info();
 
 	Triangle tri(10, 20, 30, 50, 60, 70);
-	tri.print_info();
+	ptr = &tri;
+	ptr->print_info();
 	 
 	Right_triangle rt(10, 20, 30, 50, 60);
-	rt.print_info();
+	ptr = &rt;
+	ptr->print_info();
+
 
 	Isosceles_triangle it(10, 20, 50, 60);
-	it.print_info();
+	ptr = &it;
+	ptr->print_info();
 
 	Equilateral_triangle et(30);
-	et.print_info();
+	ptr = &et;
+	ptr->print_info();
 
 	Quadrangle quadr(10, 20, 30, 40, 50, 60, 70, 80);
-	quadr.print_info();
+	ptr = &quadr;
+	ptr->print_info();
 
 	Rectangle ra(10, 20);
-	ra.print_info();
+	ptr = &ra;
+	ptr->print_info();
 
 	Square sq(20);
-	sq.print_info();
+	ptr = &sq;
+	ptr->print_info();
 
 	Parallelogram pg(20, 30, 30, 40);
-	pg.print_info();
+	ptr = &pg;
+	ptr->print_info();
 
 	Rhombus rh(30, 30, 40);
-	rh.print_info();
+	ptr = &rh;
+	ptr->print_info();
 }
