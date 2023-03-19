@@ -1,0 +1,17 @@
+# ninja log v5
+43	1194	7009465497543080	CMakeFiles/FiguresLibrary.dir/Rectangle.cpp.obj	602673a554c433ff
+1552	1855	7009465504163209	FiguresLibrary.lib	cf3b5d7e6a04011a
+1552	1855	7009465504163209	FiguresLibrary.dll	cf3b5d7e6a04011a
+50	1196	7009465497453085	CMakeFiles/FiguresLibrary.dir/Rhombus.cpp.obj	ec752e84bb0dfa18
+20	1195	7009465497343078	CMakeFiles/FiguresLibrary.dir/Isosceles_triangle.cpp.obj	d63519fb726db6e9
+9	1187	7009465497563061	CMakeFiles/FiguresLibrary.dir/Equilateral_triangle.cpp.obj	44e97865c4de2dcd
+62	1195	7009465497533077	CMakeFiles/FiguresLibrary.dir/Square.cpp.obj	f66636a2acdba9a5
+14	1197	7009465497843076	CMakeFiles/FiguresLibrary.dir/Figure.cpp.obj	8f0a98f0ac1a92be
+25	1198	7009465497793062	CMakeFiles/FiguresLibrary.dir/Parallelogram.cpp.obj	e67c091a778b6d0c
+55	1172	7009465497403086	CMakeFiles/FiguresLibrary.dir/Right_triangle.cpp.obj	eeb2d179ca4ec61b
+37	1197	7009465497493084	CMakeFiles/FiguresLibrary.dir/Quadrangle.cpp.obj	36aff9388553f4ef
+31	1229	7009465498323081	CMakeFiles/FiguresLibrary.dir/print_info.cpp.obj	dbde5e0e80eccef1
+1173	1552	7009465501563119	CMakeFiles/FiguresLibrary.dir/Triangle.cpp.obj	d952e29738833e7c
+1	19	0	clean	8c45b54705a541e8
+1187	1768	7009465503713080	CMakeFiles/FuguresClient.dir/Source.cpp.obj	4bc9bf473261d342
+1855	2032	7009465505966514	FuguresClient.exe	83d16fec728f121

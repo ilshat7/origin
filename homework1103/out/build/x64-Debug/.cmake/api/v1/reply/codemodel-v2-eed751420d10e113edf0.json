@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LeaverClientCMake",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LeaverClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeaverClient-Debug-bcf7b85f99ffa0809bce.json",
+					"name" : "LeaverClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LeaverLibrary::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LeaverLibrary-Debug-ca1a0ec8dd8c09a0392b.json",
+					"name" : "LeaverLibrary",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/homework1103/out/build/x64-Debug",
+		"source" : "C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/homework1103"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

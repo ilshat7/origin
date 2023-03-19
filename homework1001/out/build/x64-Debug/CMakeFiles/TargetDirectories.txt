@@ -1,0 +1,3 @@
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/homework1001/out/build/x64-Debug/CMakeFiles/my_first_cmake_program.dir
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/homework1001/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/homework1001/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

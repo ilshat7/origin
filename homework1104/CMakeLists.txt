@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(FuguresClient)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
+add_library(FiguresLibrary SHARED Equilateral_triangle.cpp Equilateral_triangle.h Figure.cpp Figure.h Isosceles_triangle.cpp Isosceles_triangle.h Parallelogram.cpp Parallelogram.h print_info.cpp print_info.h Quadrangle.cpp Quadrangle.h Rectangle.cpp Rectangle.h Rhombus.cpp Rhombus.h Right_triangle.cpp Right_triangle.h Square.cpp Square.h Triangle.cpp Triangle.h)
+add_executable(FuguresClient source.cpp)
+target_link_libraries(FuguresClient FiguresLibrary)

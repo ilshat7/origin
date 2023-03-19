@@ -1,0 +1,48 @@
+﻿  Equilateral_triangle.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Equilateral_triangle.cpp(3,23): warning C4273: Equilateral_triangle::Equilateral_triangle: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Equilateral_triangle.h(7,2): message : см. предыдущее определение "{ctor}"
+  Figure.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Figure.cpp(3,9): warning C4273: Figure::Figure: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Figure.h(13,2): message : см. предыдущее определение "{ctor}"
+  Isosceles_triangle.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Isosceles_triangle.cpp(3,21): warning C4273: Isosceles_triangle::Isosceles_triangle: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Isosceles_triangle.h(7,2): message : см. предыдущее определение "{ctor}"
+  Parallelogram.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Parallelogram.h(8,2): warning C4091: __declspec(dllimport): пропускается слева от "Parallelogram", когда ни одна переменная не объявлена
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Parallelogram.cpp(3,16): warning C4273: Parallelogram::Parallelogram: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Parallelogram.h(7,2): message : см. предыдущее определение "{ctor}"
+  print_info.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\print_info.cpp(4,6): warning C4273: print_info: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\print_info.h(4,24): message : см. предыдущее определение "print_info"
+  Quadrangle.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Quadrangle.cpp(3,13): warning C4273: Quadrangle::Quadrangle: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Quadrangle.h(7,2): message : см. предыдущее определение "{ctor}"
+  Rectangle.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Parallelogram.h(8,2): warning C4091: __declspec(dllimport): пропускается слева от "Parallelogram", когда ни одна переменная не объявлена
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Rectangle.cpp(3,12): warning C4273: Rectangle::Rectangle: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Rectangle.h(7,2): message : см. предыдущее определение "{ctor}"
+  Rhombus.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Parallelogram.h(8,2): warning C4091: __declspec(dllimport): пропускается слева от "Parallelogram", когда ни одна переменная не объявлена
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Rhombus.cpp(3,10): warning C4273: Rhombus::Rhombus: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Rhombus.h(7,2): message : см. предыдущее определение "{ctor}"
+  Right_triangle.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Right_triangle.cpp(3,17): warning C4273: Right_triangle::Right_triangle: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Right_triangle.h(7,2): message : см. предыдущее определение "{ctor}"
+  Square.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Square.cpp(3,9): warning C4273: Square::Square: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Square.h(7,2): message : см. предыдущее определение "{ctor}"
+  Triangle.cpp
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Triangle.cpp(3,11): warning C4273: Triangle::Triangle: несовместимое связывание dll
+C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\library\Triangle.h(7,2): message : см. предыдущее определение "{ctor}"
+  Создание кода...
+     Создается библиотека C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\x64\Debug\homework11052.lib и объект C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\x64\Debug\homework11052.exp
+LINK : warning LNK4217: Символ "??0Triangle@@QEAA@HHHHHH@Z (public: __cdecl Triangle::Triangle(int,int,int,int,int,int))", определенный в "Triangle.obj", импортирован "Equilateral_triangle.obj" в функции ""public: __cdecl Equilateral_triangle::Equilateral_triangle(int)" (??0Equilateral_triangle@@QEAA@H@Z)".
+LINK : warning LNK4217: Символ "??0Triangle@@QEAA@HHHHHH@Z (public: __cdecl Triangle::Triangle(int,int,int,int,int,int))", определенный в "Triangle.obj", импортирован "Isosceles_triangle.obj" в функции ""public: __cdecl Isosceles_triangle::Isosceles_triangle(int,int,int,int)" (??0Isosceles_triangle@@QEAA@HHHH@Z)".
+LINK : warning LNK4217: Символ "??0Triangle@@QEAA@HHHHHH@Z (public: __cdecl Triangle::Triangle(int,int,int,int,int,int))", определенный в "Triangle.obj", импортирован "Right_triangle.obj" в функции ""public: __cdecl Right_triangle::Right_triangle(int,int,int,int,int)" (??0Right_triangle@@QEAA@HHHHH@Z)".
+LINK : warning LNK4217: Символ "??0Quadrangle@@QEAA@HHHHHHHH@Z (public: __cdecl Quadrangle::Quadrangle(int,int,int,int,int,int,int,int))", определенный в "Quadrangle.obj", импортирован "Parallelogram.obj" в функции ""public: __cdecl Parallelogram::Parallelogram(int,int,int,int)" (??0Parallelogram@@QEAA@HHHH@Z)".
+LINK : warning LNK4217: Символ "??0Quadrangle@@QEAA@HHHHHHHH@Z (public: __cdecl Quadrangle::Quadrangle(int,int,int,int,int,int,int,int))", определенный в "Quadrangle.obj", импортирован "Square.obj" в функции ""public: __cdecl Square::Square(int)" (??0Square@@QEAA@H@Z)".
+LINK : warning LNK4217: Символ "??0Figure@@QEAA@XZ (public: __cdecl Figure::Figure(void))", определенный в "Figure.obj", импортирован "Quadrangle.obj" в функции ""public: __cdecl Quadrangle::Quadrangle(int,int,int,int,int,int,int,int)" (??0Quadrangle@@QEAA@HHHHHHHH@Z)".
+LINK : warning LNK4286: Символ "??0Figure@@QEAA@XZ (public: __cdecl Figure::Figure(void))", определенный в "Figure.obj", импортирован "Triangle.obj".
+LINK : warning LNK4217: Символ "??0Parallelogram@@QEAA@HHHH@Z (public: __cdecl Parallelogram::Parallelogram(int,int,int,int))", определенный в "Parallelogram.obj", импортирован "Rectangle.obj" в функции ""public: __cdecl Rectangle::Rectangle(int,int)" (??0Rectangle@@QEAA@HH@Z)".
+LINK : warning LNK4217: Символ "??0Parallelogram@@QEAA@HHHH@Z (public: __cdecl Parallelogram::Parallelogram(int,int,int,int))", определенный в "Parallelogram.obj", импортирован "Rhombus.obj" в функции ""public: __cdecl Rhombus::Rhombus(int,int,int)" (??0Rhombus@@QEAA@HHH@Z)".
+  homework11052.vcxproj -> C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\homework11052\x64\Debug\homework11052.dll
