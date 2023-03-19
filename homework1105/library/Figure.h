@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-#ifdef FIGURE_EXPORTS
+#ifdef HOMEWORK11052_EXPORTS
 #define FIGURELIBRARY_API __declspec(dllexport)
 #else
 #define FIGURELIBRARY_API __declspec(dllimport)

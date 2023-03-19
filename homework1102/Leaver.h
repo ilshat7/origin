@@ -1,10 +1,10 @@
 #pragma once
 
-#ifdef LEAVER_EXPORTS
+#ifdef HOMEWORK1102_EXPORTS
 #define LEAVERLIBRARY_API __declspec(dllexport)
 #else
 #define LEAVERLIBRARY_API __declspec(dllimport)
-#endif // LEAVER_EXPORTS
+#endif // HOMEWORK1102_EXPORTS
 
 
 class Leaver
