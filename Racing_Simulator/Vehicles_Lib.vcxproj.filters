@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\camel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\speed_camel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\centaur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\all_terrain_boots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle\magic_carpet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle\eagle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle\broom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\camel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\speed_camel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\centaur.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\ground_vehicle\all_terrain_boots.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle\magic_carpet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle\eagle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\Vehicles_Lib\air_vehicle\broom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ilshat\Desktop\cppm-homeworks\01\hw01\origin\Racing_Simulator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6535C517-4B61-303B-9F25-3FFAB090D41B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7A1EA9A6-ED2F-366B-98AA-BEE1E57E21E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
