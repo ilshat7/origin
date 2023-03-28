@@ -1,0 +1,10 @@
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/vehicle.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/ground_vehicle.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/air_vehicle.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/camel.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/speed_camel.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/centaur.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/all_terrain_boots.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/magic_carpet.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/eagle.obj
+C:/Users/Ilshat/Desktop/cppm-homeworks/01/hw01/origin/Racing_Simulator/Vehicles_Lib.dir/MinSizeRel/broom.obj

@@ -1,5 +1,5 @@
 #include <iostream>
-#include"Leaver.h"
+#include "Leaver.h"
 
 void Leaver::leave()
 {
